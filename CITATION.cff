@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the paper below if you use material from this repository."
+title: "Tail-Calibrated Soft-Output GRAND for Finite-Memory Noise-Effect Posteriors"
+type: software
+authors:
+  - family-names: Razeghi
+    given-names: Behrooz
+year: 2026
+license: BSD-3-Clause
+repository-code: "https://github.com/BehroozRazeghi/tc-sogrand"
+url: "https://arxiv.org/abs/2608.04068"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Razeghi
+      given-names: Behrooz
+  title: "Tail-Calibrated Soft-Output GRAND for Finite-Memory Noise-Effect Posteriors"
+  year: 2026
+  url: "https://arxiv.org/abs/2608.04068"
